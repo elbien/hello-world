@@ -3,9 +3,29 @@ Test y todo lo que necesite de notas y autoarranque
 
 [aca tambien?](https://guides.github.com/activities/hello-world/)
 
-pue que no..
-a ver listas
-- [ ]uno
+
+listas anidadas
+
+ordenadas:
+
+1. Item 1
+2. Item 2
+3. Item 3
+   * Item 3a
+   * Item 3b`
+
+
+desordenadas:
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+
+
+a ver listas de pendientes
+
+- [x]uno
   - [ ]anidada
   - [ ]anidada2
 - [ ]dos
