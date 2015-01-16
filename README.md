@@ -1,8 +1,17 @@
 # hello-world
 Test y todo lo que necesite de notas y autoarranque
 
-[aca tambien?](https://guides.github.com/activities/hello-world/)
+**el preeview se puede volver loco , al parecer tiene problemas de buffer (no borra items)**
 
+- [ ] ver si la app de windows lo hace mejor
+  - [ ] lo mismo en linux
+
+- [ ] ?jalan rapido/lento?
+- [ ] ?porque hay editores de terceros y hasta pagos?
+    - [ ] ?herramientas de autor?
+    - [ ] ?documentos academicos/cientificos?
+
+[aca tambien jalan los enlaces?](https://guides.github.com/activities/hello-world/)
 
 listas anidadas
 
@@ -21,15 +30,6 @@ desordenadas:
 * Item 2
   * Item 2a
   * Item 2b
-
-
-a ver listas de pendientes
-
-- [x]uno
-  - [ ]anidada
-  - [ ]anidada2
-- [ ]dos
-- [ ]tres
 
 ```javascript
 function fancyAlert(arg) {
