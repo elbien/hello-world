@@ -1,2 +1,77 @@
 # hello-world
 Test y todo lo que necesite de notas y autoarranque
+
+[aca tambien?](https://guides.github.com/activities/hello-world/)
+
+pue que no..
+a ver listas
+- [ ]uno
+  - [ ]anidada
+  - [ ]anidada2
+- [ ]dos
+- [ ]tres
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
+```pascal
+procedure TForm1.Button1Click(Sender: TObject);
+begin
+   if SendMessage(ComboBox2.Handle, CB_GETDROPPEDSTATE, 0, 0) <> 1 then
+    SendMessage(ComboBox2.Handle, CB_SHOWDROPDOWN, 1, 0);
+end;
+```
+
+```c++
+//arduino , c++
+void setup()
+{
+  Serial.begin(9600);      // connect to the serial port
+  pinMode(8, OUTPUT);         // input
+  pinMode(9, OUTPUT);         // input
+  digitalWrite(8, LOW);     // low level
+  digitalWrite(9, LOW);     // low level
+
+}
+
+// returns capacity on one input pin
+// pin must be the bitmask for the pin e.g. (1<<PB0)
+char getcap(char pin)
+{
+  char i = 0;
+  KEYDDR &= ~pin;          // input
+  KEYPORT |= pin;          // pullup on
+  for(i = 0; i < 16; i++)
+    if( (KEYPIN & pin) ) break;
+  KEYPORT &= ~pin;         // low level
+  KEYDDR |= pin;           // discharge
+  return i;
+}
+```
+
+```python
+#Python...
+def addLine(event):
+    global lastx, lasty
+    x, y = canvas.canvasx(event.x), canvas.canvasy(event.y)
+    canvas.create_line((lastx, lasty, x, y), fill=color, width=5, tags='currentline')
+    lastx, lasty = x, y
+
+def doneStroke(event):
+    canvas.itemconfigure('currentline', width=1)
+
+canvas.bind("<Button-1>", xy)
+canvas.bind("<B1-Motion>", addLine)
+canvas.bind("<B1-ButtonRelease>", doneStroke)
+```
+
+
+
+ooohh el modo de edicion a pantalla completa esta BIENNNN
+
+Y tiene un tema dark, me enamore...
