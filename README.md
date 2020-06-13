@@ -1,17 +1,17 @@
 # hello-world
 Test y todo lo que necesite de notas y autoarranque
 
-**el preeview se puede volver loco , al parecer tiene problemas de buffer (no borra items)**
+**el preview se puede volver loco , al parecer tiene problemas de buffer (no borra items)**
 
 - [ ] ver si la app de windows lo hace mejor
   - [ ] lo mismo en linux
 
-- [ ] ?jalan rapido/lento?
+- [ ] ?jalan rápido/lento?
 - [ ] ?porque hay editores de terceros y hasta pagos?
     - [ ] ?herramientas de autor?
-    - [ ] ?documentos academicos/cientificos?
+    - [ ] ?documentos académicos/científicos?
 
-[aca tambien jalan los enlaces?](https://guides.github.com/activities/hello-world/)
+[aca también jalan los enlaces?](https://guides.github.com/activities/hello-world/)
 
 listas anidadas
 
