@@ -1,6 +1,6 @@
 # hello-world
 Test y todo lo que necesite de notas y autoarranque
-
+----a ver...!!!---
 **el preview se puede volver loco , al parecer tiene problemas de buffer (no borra items)**
 
 - [ ] ver si la app de windows lo hace mejor
