@@ -1,5 +1,5 @@
 # hello-world
-Test y todo lo que necesite de notas y autoarranque
+Test y todo lo que necesite de notas y autoarranque </br>
 ----[a ver...!!!]---
 **el preview se puede volver loco , al parecer tiene problemas de buffer (no borra items)**
 
